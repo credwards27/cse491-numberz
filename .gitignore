@@ -1,0 +1,7 @@
+# aptana project files
+.project
+.pydevproject
+
+# system files
+.DS_Store
+
